@@ -32,7 +32,7 @@ All content made available through the Skill—including devotionals, audio file
 
 ## 4. Privacy
 
-The Skill may process voice input through Amazon Alexa services. We do not collect or store personal information through the Skill directly. Please refer to the [Phaneroo Privacy Policy](https://phaneroo.org/privacy) and [Amazon’s Privacy Policy](https://www.amazon.com/privacy) for more information.
+The Skill may process voice input through Amazon Alexa services. We do not collect or store personal information through the Skill directly. Please refer to the [Phaneroo Privacy Policy](https://phaneroo.org/privacy-policy) and [Amazon’s Privacy Policy](https://www.amazon.com/privacy) for more information.
 
 ---
 
