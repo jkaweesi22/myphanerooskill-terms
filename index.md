@@ -52,5 +52,5 @@ Phaneroo reserves the right to modify or discontinue the Skill, or update these 
 
 For questions or support related to the Skill, please contact:
 
-📧 **Email:** info@phaneroo.org  
+📧 **Email:** it@phaneroo.org
 🌐 **Website:** [https://phaneroo.org](https://phaneroo.org)
